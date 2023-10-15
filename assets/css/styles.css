@@ -477,7 +477,7 @@ img {
   overflow: hidden;
 }
 
-.container {
+.test_container {
   max-width: 780px;
   margin: auto;
 }
